@@ -103,21 +103,21 @@ The results demonstrate successful collection and alerting of repeated Windows a
 
 ### 7.1 Windows Security Event Log
 
-`06-windows-failed-login-events.png`
+![Windows Security Event Log - Five Failed Login Events](06-windows-failed-login-events.png)
 
 ### 7.2 Wazuh Alert Overview
 
-`01-wazuh-alert-overview-1.png`
+![Wazuh Alert Overview - Part 1](01-wazuh-alert-overview-1.png)
 
-`02-wazuh-alert-overview-2.png`
+![Wazuh Alert Overview - Part 2](02-wazuh-alert-overview-2.png)
 
 ### 7.3 Wazuh Alert Details
 
-`03-wazuh-alert-details-1.png`
+![Wazuh Alert Details - Part 1](03-wazuh-alert-details-1.png)
 
-`04-wazuh-alert-details-2.png`
+![Wazuh Alert Details - Part 2](04-wazuh-alert-details-2.png)
 
-`05-wazuh-alert-details-3.png`
+![Wazuh Alert Details - Part 3](05-wazuh-alert-details-3.png)
 
 ## 8. Investigation Findings
 
