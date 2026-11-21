@@ -154,4 +154,6 @@ The evidence does not establish an external attacker or a confirmed malicious in
 
 ## 11. Supporting Documentation
 
-The formal SOC incident report will be added to this repository after the investigation documentation is finalised.
+The formal incident report documenting the investigation methodology, evidence, detection results, and security assessment is available below.
+
+**[View SOC Incident Report 002](SOC-Incident-Report-002.md)**
